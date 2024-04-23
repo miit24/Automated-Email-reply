@@ -1,4 +1,5 @@
-# Listed_Inc_Assignment
+#Automated Email reply 
+This application will make automated reply to the first email recieved, and store's the email into a particular label
 
 # Prerequisite
 1. Node.js install
